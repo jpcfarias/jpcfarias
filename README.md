@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello 👋, I'm Joao and study software engineering at the University of Brasilia
 
-<!--
-**jpcfarias/jpcfarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=jpcfarias&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+## Main Languages and Tools:
+<div style="display: inline_block">
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
