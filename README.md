@@ -1,10 +1,4 @@
-# Hello 👋, I'm Joao and study software engineering at the University of Brasilia
+# Hi, I'm Joao and study software engineering at the University of Brasilia
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpcfarias&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
+![Metrics](https://metrics.lecoq.io/jpcfarias?template=terminal&base.header=0&languages=1&introduction=1&topics=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=JUPYTER%20NOTEBOOK&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&topics=false&topics.mode=icons&topics.sort=activity&topics.limit=15&introduction=false&introduction.title=true&config.timezone=America%2FSao_Paulo)
 
-## Main Languages and Tools:
-<div style="display: inline_block">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</div>
