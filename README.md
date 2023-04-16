@@ -1,7 +1,7 @@
 # Hello 👋, I'm Joao and study software engineering at the University of Brasilia
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=jpcfarias&show_icons=true&theme=tokyonight&card_width=300)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpcfarias&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
 
 ## Main Languages and Tools:
 <div style="display: inline_block">
